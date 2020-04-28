@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FragmentsPerformance</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum rutrum quam augue, sed sodales enim ultrices et. Integer at maximus mauris. Donec nec maximus purus. Ut sagittis bibendum dictum. Maecenas tincidunt porttitor semper. Suspendisse a commodo nulla. Morbi lobortis scelerisque turpis et ornare. Fusce libero metus, blandit vel dolor quis, bibendum volutpat arcu. Quisque quis orci vel ligula commodo euismod id vitae sem.</string>
+</resources>
